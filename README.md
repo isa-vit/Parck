@@ -1,16 +1,12 @@
-<!-- 
-<img src="https://github.com/isa-vit/CodeY/blob/main/Thumbnail.png">
- -->
- 
-# Parck
-<!-- 
-A Code Editor for the Android Ecoystem. Compile, Run your code anywhere, anytime. 
 
+<img src="https://github.com/isa-vit/Parck/blob/main/Thumbnail.png">
+
+ 
 <br>
 
 ### User Interface
 
 Create ```issues```, if you would like to suggest improvements in the design. 
 
-Link to the UI : <a href="https://www.figma.com/file/6EpwhftPbqyy6kPImAUCJQ/CodeY?node-id=0%3A1"> CodeY UI </a>
- -->
+Link to the UI : <a href="https://www.figma.com/file/musZhn9W7LkLYzamHMlBuG/Parck?node-id=0%3A1"> Parck UI </a>
+
